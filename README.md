@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohnish
 - 👀 I’m interested in playing pc games.
 - 🌱 I’m currently learning B.Tech. from NIT Raipur
-- 💞️ I’m looking to collaborate on a multinational programming company.
+- 💞️ I’m looking to collaborate on a programming project.
 - 📫 How to reach me @mohnishsagarwanshi1205@gmail.com
 
 <!---
