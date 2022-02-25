@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohnish
+- 👋 Hi, This is Mohnish Sagarvanshi
 - 👀 I’m interested in playing Web Development.
-- 🌱 I’m currently learning B.Tech. from NIT Raipur
+- 🌱 I’m currently pursuing B.Tech. in Biotechnology from NIT Raipur
 - 💞️ I’m looking to collaborate on a Web Development programming project.
 - 📫 How to reach me mohnishsagarwanshi1205@gmail.com
 
